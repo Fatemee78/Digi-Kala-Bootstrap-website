@@ -1,0 +1,141 @@
+.list-icon{
+    font-size: 1.2rem;
+    margin: 0 5px;
+    color: #a1a3a8;
+    font-family: digikala;
+    vertical-align: middle;
+}
+
+.btn-icon{
+    font-family: digikala;
+    vertical-align: middle;
+    font-size: 20px;
+    display: block;
+}
+
+.cat-icon{
+    font-family: digikala;
+    text-align: center;
+    display: block;
+    color: #00bfd6;
+    font-size: 40px;
+}
+
+.menu-icon{
+    font-family: digikala;
+    vertical-align: middle;
+    margin-left: 4px;
+    font-size: 20px;
+}
+
+.icon{
+    font-family: digikala;
+    vertical-align: middle;
+    width: 36px;
+    height: 36px;
+    line-height: 40px;
+    text-align: center;
+    background-color: hsla(0,0%,74.5%,.41);
+    color: #fff;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.search-box-b:before, .search-box-a:after{
+    content: "\E13B\00FE0E";
+}
+
+.rewards-b:before, .rewards-a:after{
+    content: "\E013\00FE0E";
+}
+.clock-b:before, .clock-a:after{
+    content: "\E03D\00FE0E";
+}
+
+.discount-tag-b:before, .discount-tag-a:after{
+    content: "\E14D\00FE0E";
+}
+
+.gift-card-a:after, .gift-card-b:before{
+    content: "\E12F\00FE0E";
+}
+
+.gift-a:after, .gift-b:before{
+    content: "\E12D\00FE0E";
+}
+
+.new-prod-a:after, .new-prod-b:before{
+    content: "\E162\00FE0E";
+}
+
+.lucky-draw-a:after, .lucky-draw-b:before{
+    content: "\E06A\00FE0E";
+}
+
+.user-a:after, .user-b:before{
+    content: "\E193\00FE0E";
+}
+
+.recipe-a:after, .recipe-b:before{
+    content: "\E0D5\00FE0E";
+}
+
+.laptop-a:after, .laptop-b:before{
+    content: "\E110\00FE0E";
+}
+
+.heart-a:after, .heart-b:before{
+    content: "\E17E\00FE0E";
+}
+
+.tools-a:after, .tools-b:before{
+    content: "\E1DA\00FE0E";
+}
+
+.shirt-a:after, .shirt-b:before{
+    content: "\E11A\00FE0E";
+}
+
+.sofa-a:after, .sofa-b:before{
+    content: "\E141\00FE0E";
+}
+
+.book-a:after, .book-b:before{
+    content: "\E0CE\00FE0E";
+}
+
+.baby-a:after, .baby-b:before{
+    content: "\E15D\00FE0E";
+}
+
+.sports-a:after, .sports-b:before{
+    content: "\E1C6\00FE0E";
+}
+
+.food-a:after, .food-b:before{
+    content: "\E127\00FE0E";
+}
+
+.up-angle-a:after, .up-angle-b:before{
+    content: "\E0C0\00FE0E";
+}
+
+.linked-in-a:after, .linked-in-b:before{
+    content: "\E153\00FE0E";
+}
+
+.aparat-a:after, .aparat-b:before{
+    content: "\E0B6\00FE0E";
+}
+
+
+.twitter-a:after, .twitter-b:before{
+    content: "\E121\00FE0E";
+}
+
+
+
+.instagram-a:after, .instagram-b:before{
+    content: "\E161\00FE0E";
+}
+
